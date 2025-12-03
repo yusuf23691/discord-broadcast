@@ -17,9 +17,9 @@ module.exports = {
         }
     },
     server: {
-        guildId: 'ID',         // ايدي السيرفر
-        broadcastRoleId: 'ID', // ايدي الرول اللي يستخدم عليها البوت
-        reportChannelId: 'ID' // ايدي الروم اللي يرسل فيه البوت التقارير
+        guildId: '1439168657526755339',         // ايدي السيرفر
+        broadcastRoleId: '1439181060666691695', // ايدي الرول اللي يستخدم عليها البوت
+        reportChannelId: '1445741322672804011' // ايدي الروم اللي يرسل فيه البوت التقارير
     },
     broadcast: {
         cooldownTime: 1000, // لا تلعب فيها
@@ -34,4 +34,5 @@ module.exports = {
         error: '#ED4245',      // Red (used for errors)
         neutral: '#5D5D5D'     // Gray (used for neutral messages)
     }
+
 };
